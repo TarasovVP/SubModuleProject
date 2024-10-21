@@ -1,0 +1,6 @@
+[submodule "core"]
+	path = core
+	url = https://github.com/TarasovVP/core-repo.git
+[submodule "MainSubmoduleProject"]
+	path = MainSubmoduleProject
+	url = https://github.com/TarasovVP/MainSubmoduleProject.git
